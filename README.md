@@ -2,7 +2,7 @@
 
 Godot Android Vibration Plugin 
 ==========
-This is an Android vibration plugin for [Godot Game Engine](https://godotengine.org/) 3.2 or greater. For Godot < 3.2 you can use the old module.
+This is an Android vibration plugin for [Godot Game Engine](https://godotengine.org/) 3.2 or greater. For Godot < 3.2 or iOS support you can use the [old module](https://github.com/Shin-NiL/Godot-Mobile-Vibration).
 
 
 How to use
